@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8f59317d-d1da-44d6-8fd6-7d01ef7e11b0" name="squares.tutkupi.com" url="http://squares.tutkupi.com">
+        <fileTransfer rootFolder="/public_html/" host="46.4.83.189" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
